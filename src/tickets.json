@@ -1,0 +1,49 @@
+{
+  "tickets": [
+    {
+      "ticketStartPoint": "Moscow",
+      "ticketEndPoint": "Kiev",
+      "minutes": "125"
+    },
+    {
+      "ticketStartPoint": "Kiev",
+      "ticketEndPoint": "Moscow",
+      "minutes": "120"
+    },
+    {
+      "ticketStartPoint": "Tel Aviv",
+      "ticketEndPoint": "Vladivostok",
+      "minutes": "840"
+    },
+    {
+      "ticketStartPoint": "Vladivostok",
+      "ticketEndPoint": "Tel Aviv",
+      "minutes": "855"
+    },
+    {
+      "ticketStartPoint": "Tel Aviv",
+      "ticketEndPoint": "Vladivostok",
+      "minutes": "899"
+    },
+    {
+      "ticketStartPoint": "Tel Aviv",
+      "ticketEndPoint": "Vladivostok",
+      "minutes": "920"
+    },
+    {
+      "ticketStartPoint": "Tel Aviv",
+      "ticketEndPoint": "Vladivostok",
+      "minutes": "955"
+    },
+    {
+      "ticketStartPoint": "Tel Aviv",
+      "ticketEndPoint": "Vladivostok",
+      "minutes": "1000"
+    },
+    {
+      "ticketStartPoint": "Tel Aviv",
+      "ticketEndPoint": "Vladivostok",
+      "minutes": "960"
+    }
+  ]
+}
